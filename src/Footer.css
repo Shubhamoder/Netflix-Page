@@ -1,0 +1,60 @@
+
+.margin{
+    margin: 25px 10px;
+    height: 5px;
+   
+    background-color: grey;
+}
+.foo_desc{
+    color: grey;
+    margin-bottom: 25px;
+    margin-left: 15%;
+}
+.foo{
+    
+    
+    
+    color: grey;
+    font-size: 16px;
+
+    
+    width: 80%;
+    margin: auto;
+}
+.foo ul{
+    display: flex;
+}
+.fo{
+    display: block;
+    
+    width:25%;
+}
+.link{
+    /*box-sizing: border-box;
+    display:inline-block;*/
+    
+    margin-top: 5px;
+    margin-bottom: 16px;
+    
+
+}
+
+.foo ul{
+    width: 100%;
+    margin-top: 10px;
+    box-sizing: border-box;
+    list-style: none;
+}
+.h{
+text-decoration: none;
+ color: grey;
+}
+.h:hover{
+    text-decoration: underline;
+}
+
+
+
+.link_1{
+    list-style: none;
+}
